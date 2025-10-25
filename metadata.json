@@ -1,0 +1,5 @@
+{
+  "name": "ARAI Photo Editor",
+  "description": "Upload a photo of a boy and a girl, and ARAI will generate a new image of them hugging in a romantic setting, powered by Gemini.",
+  "requestFramePermissions": []
+}
